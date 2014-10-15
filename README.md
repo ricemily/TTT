@@ -1,7 +1,7 @@
-Program: TT2 (Tick Tack Toe AI)
+Program: TTT2 (Tick Tack Toe AI)
 Author: Emily Rice
 Purpose: demonstrate programming skills to 8th light
-Program File: TTtoe_original
+Program File: TicTacToe - ERice.java
 
 Description: The goal of this project is a to create a tic tac toe program with artificial intelligence so that the computer will win whenever possible and at the least tie. It is written in Java and has a graphical interface.
 
